@@ -10,3 +10,4 @@ I am a PhD student in Finance at Rady School of Management, UC San Diego. My res
 
 Link to my [CV](/files/IvanaMaoCV.pdf).
 
+Contact: [ivana (dot) mao (at) rady (dot) ucsd (dot) edu](mailto:ivana.mao@rady.ucsd.edu)
