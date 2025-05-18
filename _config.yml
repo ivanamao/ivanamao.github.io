@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ivana's Homepage"
+title                    : "Ivana Mao"
 title_separator          : "-"
 name                     : &name "Ivana Mao"
 description              : &description "PhD Student"
